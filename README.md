@@ -4,4 +4,5 @@
   My reference for applying is :  # https://proandroiddev.com/synchronize-recyclerview-with-tablayout-3c5da4f3b18b 
   
 * You can check this test :   
+
   ![Alt Text](https://miro.medium.com/max/600/1*k-imyDuAY1G-4qiAgG9taQ.gif)
